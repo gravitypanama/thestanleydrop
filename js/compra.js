@@ -109,9 +109,9 @@ function renderProductoDetalle(producto) {
 
                                         <div class="row">
                                             <div class="col-md-12 p-2">
-                                                <label for="email" class="form-label">Dirección de correo electrónico</label>
+                                                <label for="email" class="form-label">Correo electrónico</label>
                                                 <input type="email" class="form-control" id="email"
-                                                    placeholder="Direccion de correo electronico">
+                                                    placeholder="Correo electronico" required>
                                             </div>
 
                                             <div class="col-md-12 p-2">

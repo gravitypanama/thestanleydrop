@@ -69,12 +69,12 @@ header {
 }
 
 .product-info {
-    font-size: 1.1rem;
+    font-size: 1.0rem;
 }
 
 .product-info strong {
     color: #555;
-    min-width: 150px;
+    min-width: 120px;
     display: inline-block;
 }
 

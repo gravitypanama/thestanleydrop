@@ -14,12 +14,12 @@ body{
 }
 
 .product-info {
-    font-size: 1.1rem;
+    font-size: 1.0rem;
 }
 
 .product-info strong {
     color: #555;
-    min-width: 150px;
+    min-width: 120px;
     display: inline-block;
 }
 
@@ -61,11 +61,11 @@ body{
     justify-content: center;
     align-items: center;
     padding: 15px;
-    border-radius: 15px;
+    /*border-radius: 15px;
     background: linear-gradient(135deg, #1a1a2e, #162447, #1f4068, #e43f5a);
     background-size: 400% 400%;
     animation: gradientShift 6s ease infinite;
-    box-shadow: 0 0 20px rgba(228, 63, 90, 0.7);
+    box-shadow: 0 0 20px rgba(228, 63, 90, 0.7);*/
     margin-top: 15px;
 }
 
