@@ -18,7 +18,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "80s Dynamite",
-   "PRECIO VENTA": 50,
+   "PRECIO VENTA": 46,
    "ESTADO": 1
  },
  {
@@ -29,7 +29,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "60s Twist 'N Turn",
-   "PRECIO VENTA": 50,
+   "PRECIO VENTA": 46,
    "ESTADO": 1
  },
  {
@@ -40,7 +40,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "70s Superstar",
-   "PRECIO VENTA": 50,
+   "PRECIO VENTA": 46,
    "ESTADO": 1
  },
  {
@@ -51,7 +51,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "1959 Original",
-   "PRECIO VENTA": 50,
+   "PRECIO VENTA": 46,
    "ESTADO": 1
  },
  {
@@ -62,7 +62,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Barbie Icon",
-   "PRECIO VENTA": 50,
+   "PRECIO VENTA": 46,
    "ESTADO": 1
  },
  {
@@ -73,7 +73,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "80s Western Ken",
-   "PRECIO VENTA": 50,
+   "PRECIO VENTA": 46,
    "ESTADO": 1
  },
  {
@@ -84,7 +84,7 @@
    "USO": "Agua/Cafe",
    "TAMANO": 16,
    "COLOR": "Lilac",
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 38,
    "ESTADO": 0
  },
  {
@@ -161,7 +161,7 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Polar",
-   "PRECIO VENTA": 34,
+   "PRECIO VENTA": 32,
    "ESTADO": 1
  },
  {
@@ -238,8 +238,8 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Lilac",
-   "PRECIO VENTA": 52,
-   "ESTADO": 1
+   "PRECIO VENTA": 56,
+   "ESTADO": 0
  },
  {
    "ID": 51,
@@ -249,7 +249,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lilac",
-   "PRECIO VENTA": 54,
+   "PRECIO VENTA": 56,
    "ESTADO": 0
  },
  {
@@ -260,7 +260,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lilac",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 26,
    "ESTADO": 1
  },
  {
@@ -304,7 +304,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Meadow",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -315,7 +315,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Stainless Steel Shale",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -337,8 +337,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azure",
-   "PRECIO VENTA": 42,
-   "ESTADO": 1
+   "PRECIO VENTA": 52,
+   "ESTADO": 0
  },
  {
    "ID": 42,
@@ -404,7 +404,7 @@
    "TAMANO": 34,
    "COLOR": "Mist",
    "PRECIO VENTA": 40,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 36,
@@ -414,7 +414,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Rose Quartz",
-   "PRECIO VENTA": 48,
+   "PRECIO VENTA": 44,
    "ESTADO": 1
  },
  {
@@ -425,7 +425,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Polar",
-   "PRECIO VENTA": 48,
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -458,8 +458,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Exclusive Sienna",
-   "PRECIO VENTA": 44,
-   "ESTADO": 1
+   "PRECIO VENTA": 52,
+   "ESTADO": 0
  },
  {
    "ID": 31,
@@ -491,7 +491,7 @@
    "USO": "Agua",
    "TAMANO": 20,
    "COLOR": "Frost",
-   "PRECIO VENTA": 34,
+   "PRECIO VENTA": 26,
    "ESTADO": 1
  },
  {
@@ -568,8 +568,8 @@
    "USO": "Cerveza",
    "TAMANO": 24,
    "COLOR": "Black",
-   "PRECIO VENTA": 36,
-   "ESTADO": 0
+   "PRECIO VENTA": 26,
+   "ESTADO": 1
  },
  {
    "ID": 21,
@@ -579,8 +579,8 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Pomelo",
-   "PRECIO VENTA": 32,
-   "ESTADO": 0
+   "PRECIO VENTA": 24,
+   "ESTADO": 1
  },
  {
    "ID": 20,
@@ -591,7 +591,7 @@
    "TAMANO": 20,
    "COLOR": "Ash",
    "PRECIO VENTA": 30,
-   "ESTADO": 0
+   "ESTADO": 1
  },
  {
    "ID": 19,
@@ -656,8 +656,8 @@
    "USO": "Agua",
    "TAMANO": 20,
    "COLOR": "Pomelo",
-   "PRECIO VENTA": 40,
-   "ESTADO": 0
+   "PRECIO VENTA": 26,
+   "ESTADO": 1
  },
  {
    "ID": 13,
@@ -667,7 +667,7 @@
    "USO": "Agua",
    "TAMANO": 16,
    "COLOR": "Alpine",
-   "PRECIO VENTA": 26,
+   "PRECIO VENTA": 28,
    "ESTADO": 1
  },
  {
@@ -678,8 +678,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Pomelo",
-   "PRECIO VENTA": 46,
-   "ESTADO": 0
+   "PRECIO VENTA": 44,
+   "ESTADO": 1
  },
  {
    "ID": 11,
@@ -733,8 +733,8 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Meadow",
-   "PRECIO VENTA": 46,
-   "ESTADO": 0
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
  },
  {
    "ID": 6,
@@ -744,8 +744,8 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Azure",
-   "PRECIO VENTA": 42,
-   "ESTADO": 0
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
  },
  {
    "ID": 5,
@@ -777,8 +777,8 @@
    "USO": "Agua",
    "TAMANO": 16,
    "COLOR": "Azure",
-   "PRECIO VENTA": 32,
-   "ESTADO": 0
+   "PRECIO VENTA": 30,
+   "ESTADO": 1
  },
  {
    "ID": 2,
