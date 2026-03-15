@@ -159,7 +159,7 @@ function renderProductos(productos) {
 
     productos
         .sort((a, b) => {
-            const tipoCompare = b.TIPO.localeCompare(a.TIPO, 'es', { sensitivity: 'base' });
+            const tipoCompare = a.TIPO.localeCompare(b.TIPO, 'es', { sensitivity: 'base' });
             if (tipoCompare !== 0) return tipoCompare;
             return a.TAMANO - b.TAMANO;
         })
