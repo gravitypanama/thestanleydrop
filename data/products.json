@@ -7,7 +7,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Black",
-   "PRECIO VENTA": 50,
+   "PRECIO VENTA": 48,
    "ESTADO": 1
  },
  {
@@ -84,7 +84,7 @@
    "USO": "Agua/Cafe",
    "TAMANO": 16,
    "COLOR": "Lilac",
-   "PRECIO VENTA": 28,
+   "PRECIO VENTA": 24,
    "ESTADO": 1
  },
  {
@@ -249,7 +249,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lilac",
-   "PRECIO VENTA": 54,
+   "PRECIO VENTA": 52,
    "ESTADO": 0
  },
  {
@@ -337,7 +337,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azure",
-   "PRECIO VENTA": 52,
+   "PRECIO VENTA": 50,
    "ESTADO": 0
  },
  {
@@ -425,7 +425,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Polar",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -568,7 +568,7 @@
    "USO": "Cerveza",
    "TAMANO": 24,
    "COLOR": "Black",
-   "PRECIO VENTA": 24,
+   "PRECIO VENTA": 26,
    "ESTADO": 1
  },
  {
@@ -634,7 +634,7 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Pomelo",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 40,
    "ESTADO": 0
  },
  {
@@ -678,7 +678,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Pomelo",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 50,
    "ESTADO": 0
  },
  {
@@ -689,8 +689,8 @@
    "USO": "Agua/Cafe",
    "TAMANO": 20,
    "COLOR": "Seafoam",
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
  },
  {
    "ID": 10,
@@ -788,7 +788,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azure",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 36,
    "ESTADO": 0
  },
  {
