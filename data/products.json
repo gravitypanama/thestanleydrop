@@ -1,12 +1,122 @@
 [
  {
+   "ID": 83,
+   "ASIN": "B08VPW31C2",
+   "DESCRIPCION": "IceFlow Flip Straw",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 17,
+   "COLOR": "Blanco",
+   "PRECIO VENTA": 28,
+   "ESTADO": 1
+ },
+ {
+   "ID": 82,
+   "ASIN": "B0G77KWGCW",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 20,
+   "COLOR": "Blanco",
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
+ },
+ {
+   "ID": 81,
+   "ASIN": "B0DJCHCM5C",
+   "DESCRIPCION": "Barbie� �80s Rockers",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 40,
+   "COLOR": "80s Rockers",
+   "PRECIO VENTA": 74,
+   "ESTADO": 0
+ },
+ {
+   "ID": 80,
+   "ASIN": "B0CWLQTG8P",
+   "DESCRIPCION": "IceFlow Fast Flow",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 24,
+   "COLOR": "Azul",
+   "PRECIO VENTA": 42,
+   "ESTADO": 0
+ },
+ {
+   "ID": 79,
+   "ASIN": "B0CHN89H44",
+   "DESCRIPCION": "IceFlow Cap and Carry",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 36,
+   "COLOR": "Azul",
+   "PRECIO VENTA": 42,
+   "ESTADO": 1
+ },
+ {
+   "ID": 78,
+   "ASIN": "B0DR9N2R9M",
+   "DESCRIPCION": "Quencher ProTour",
+   "TIPO": "Quencher",
+   "USO": "Agua",
+   "TAMANO": 64,
+   "COLOR": "Rojo",
+   "PRECIO VENTA": 68,
+   "ESTADO": 0
+ },
+ {
+   "ID": 77,
+   "ASIN": "B0D37YYG24",
+   "DESCRIPCION": "IceFlow Cap and Carry",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 24,
+   "COLOR": "Anaranjado",
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 76,
+   "ASIN": "B0CHN5ZQNH",
+   "DESCRIPCION": "IceFlow Cap and Carry",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 36,
+   "COLOR": "Anaranjado",
+   "PRECIO VENTA": 36,
+   "ESTADO": 1
+ },
+ {
+   "ID": 75,
+   "ASIN": "B0CFNRCVF8",
+   "DESCRIPCION": "IceFlow Fast Flow",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 24,
+   "COLOR": "Anaranjado",
+   "PRECIO VENTA": 34,
+   "ESTADO": 1
+ },
+ {
+   "ID": 74,
+   "ASIN": "B0CHN7SQGN",
+   "DESCRIPCION": "IceFlow Cap and Carry",
+   "TIPO": "IceFlow",
+   "USO": "Agua",
+   "TAMANO": 36,
+   "COLOR": "Celeste",
+   "PRECIO VENTA": 40,
+   "ESTADO": 1
+ },
+ {
    "ID": 73,
    "ASIN": "B0CHN85VHR",
    "DESCRIPCION": "IceFlow Cap and Carry",
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 50,
-   "COLOR": "Black",
+   "COLOR": "Negro",
    "PRECIO VENTA": 54,
    "ESTADO": 1
  },
@@ -18,7 +128,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "80s Dynamite",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 52,
    "ESTADO": 1
  },
  {
@@ -29,7 +139,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "60s Twist 'N Turn",
-   "PRECIO VENTA": 68,
+   "PRECIO VENTA": 74,
    "ESTADO": 0
  },
  {
@@ -40,8 +150,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "70s Superstar",
-   "PRECIO VENTA": 46,
-   "ESTADO": 1
+   "PRECIO VENTA": 74,
+   "ESTADO": 0
  },
  {
    "ID": 69,
@@ -51,8 +161,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "1959 Original",
-   "PRECIO VENTA": 46,
-   "ESTADO": 1
+   "PRECIO VENTA": 74,
+   "ESTADO": 0
  },
  {
    "ID": 68,
@@ -62,8 +172,8 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Barbie Icon",
-   "PRECIO VENTA": 46,
-   "ESTADO": 1
+   "PRECIO VENTA": 74,
+   "ESTADO": 0
  },
  {
    "ID": 67,
@@ -73,7 +183,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "80s Western Ken",
-   "PRECIO VENTA": 46,
+   "PRECIO VENTA": 52,
    "ESTADO": 1
  },
  {
@@ -83,7 +193,7 @@
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
    "TAMANO": 16,
-   "COLOR": "Lilac",
+   "COLOR": "Lila",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -94,9 +204,9 @@
    "TIPO": "All Day",
    "USO": "Agua",
    "TAMANO": 20,
-   "COLOR": "Lilac",
-   "PRECIO VENTA": 38,
-   "ESTADO": 0
+   "COLOR": "Lila",
+   "PRECIO VENTA": 28,
+   "ESTADO": 1
  },
  {
    "ID": 64,
@@ -105,7 +215,7 @@
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
    "TAMANO": 20,
-   "COLOR": "lilac",
+   "COLOR": "Lila",
    "PRECIO VENTA": 42,
    "ESTADO": 0
  },
@@ -116,8 +226,8 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Pistachio",
-   "PRECIO VENTA": 30,
+   "COLOR": "Verde",
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
@@ -127,9 +237,9 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 30,
-   "COLOR": "Rose Quartz",
-   "PRECIO VENTA": 30,
-   "ESTADO": 1
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 46,
+   "ESTADO": 0
  },
  {
    "ID": 61,
@@ -138,8 +248,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Azure",
-   "PRECIO VENTA": 36,
+   "COLOR": "Azul",
+   "PRECIO VENTA": 40,
    "ESTADO": 0
  },
  {
@@ -149,7 +259,7 @@
    "TIPO": "All Day",
    "USO": "Agua",
    "TAMANO": 34,
-   "COLOR": "Pomelo",
+   "COLOR": "Amarillo",
    "PRECIO VENTA": 40,
    "ESTADO": 1
  },
@@ -160,8 +270,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Polar",
-   "PRECIO VENTA": 38,
+   "COLOR": "Blanco",
+   "PRECIO VENTA": 40,
    "ESTADO": 0
  },
  {
@@ -171,7 +281,7 @@
    "TIPO": "All Day",
    "USO": "Agua",
    "TAMANO": 34,
-   "COLOR": "Azure",
+   "COLOR": "Azul",
    "PRECIO VENTA": 48,
    "ESTADO": 0
  },
@@ -182,9 +292,9 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 50,
-   "COLOR": "lilac",
-   "PRECIO VENTA": 66,
-   "ESTADO": 0
+   "COLOR": "Lila",
+   "PRECIO VENTA": 46,
+   "ESTADO": 1
  },
  {
    "ID": 56,
@@ -193,7 +303,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Prickly Pear",
+   "COLOR": "Amarillo",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -204,9 +314,9 @@
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
    "TAMANO": 16,
-   "COLOR": "Rose Quartz",
-   "PRECIO VENTA": 38,
-   "ESTADO": 0
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 26,
+   "ESTADO": 1
  },
  {
    "ID": 54,
@@ -215,7 +325,7 @@
    "TIPO": "Classic Legendary",
    "USO": "Cafe",
    "TAMANO": 48,
-   "COLOR": "Sage Grey",
+   "COLOR": "Gris",
    "PRECIO VENTA": 46,
    "ESTADO": 0
  },
@@ -226,9 +336,9 @@
    "TIPO": "Lunch Box",
    "USO": "Cafe",
    "TAMANO": 320,
-   "COLOR": "Hammertone Silver",
-   "PRECIO VENTA": 50,
-   "ESTADO": 1
+   "COLOR": "Gris",
+   "PRECIO VENTA": 66,
+   "ESTADO": 0
  },
  {
    "ID": 52,
@@ -237,8 +347,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 50,
-   "COLOR": "Lilac",
-   "PRECIO VENTA": 50,
+   "COLOR": "Lila",
+   "PRECIO VENTA": 52,
    "ESTADO": 1
  },
  {
@@ -248,8 +358,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Lilac",
-   "PRECIO VENTA": 50,
+   "COLOR": "Lila",
+   "PRECIO VENTA": 48,
    "ESTADO": 0
  },
  {
@@ -259,7 +369,7 @@
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Lilac",
+   "COLOR": "Lila",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -270,9 +380,9 @@
    "TIPO": "Food Jar",
    "USO": "Cafe",
    "TAMANO": 24,
-   "COLOR": "Hammertone Silver",
-   "PRECIO VENTA": 36,
-   "ESTADO": 1
+   "COLOR": "Gris",
+   "PRECIO VENTA": 50,
+   "ESTADO": 0
  },
  {
    "ID": 48,
@@ -281,9 +391,9 @@
    "TIPO": "Classic Legendary",
    "USO": "Cafe",
    "TAMANO": 48,
-   "COLOR": "Toast",
-   "PRECIO VENTA": 46,
-   "ESTADO": 0
+   "COLOR": "Crema",
+   "PRECIO VENTA": 42,
+   "ESTADO": 1
  },
  {
    "ID": 47,
@@ -292,7 +402,7 @@
    "TIPO": "Classic Legendary",
    "USO": "Cafe",
    "TAMANO": 35.2,
-   "COLOR": "Hammertone Green",
+   "COLOR": "Verde",
    "PRECIO VENTA": 32,
    "ESTADO": 1
  },
@@ -303,7 +413,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Meadow",
+   "COLOR": "Verde",
    "PRECIO VENTA": 56,
    "ESTADO": 0
  },
@@ -314,7 +424,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Stainless Steel Shale",
+   "COLOR": "Gris",
    "PRECIO VENTA": 44,
    "ESTADO": 1
  },
@@ -325,7 +435,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Navy",
+   "COLOR": "Azul",
    "PRECIO VENTA": 56,
    "ESTADO": 0
  },
@@ -336,8 +446,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Azure",
-   "PRECIO VENTA": 50,
+   "COLOR": "Azul",
+   "PRECIO VENTA": 52,
    "ESTADO": 0
  },
  {
@@ -347,7 +457,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Plum",
+   "COLOR": "Morado",
    "PRECIO VENTA": 56,
    "ESTADO": 0
  },
@@ -358,7 +468,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Sunrise Spiral",
+   "COLOR": "Gris",
    "PRECIO VENTA": 42,
    "ESTADO": 0
  },
@@ -369,7 +479,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 30,
-   "COLOR": "Rose Quartz",
+   "COLOR": "Rosado",
    "PRECIO VENTA": 48,
    "ESTADO": 0
  },
@@ -380,7 +490,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Frost Fade",
+   "COLOR": "Blanco",
    "PRECIO VENTA": 42,
    "ESTADO": 0
  },
@@ -391,7 +501,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Cream Fade",
+   "COLOR": "Crema",
    "PRECIO VENTA": 42,
    "ESTADO": 1
  },
@@ -402,7 +512,7 @@
    "TIPO": "All Day",
    "USO": "Agua",
    "TAMANO": 34,
-   "COLOR": "Mist",
+   "COLOR": "Verde",
    "PRECIO VENTA": 48,
    "ESTADO": 0
  },
@@ -413,8 +523,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 50,
-   "COLOR": "Rose Quartz",
-   "PRECIO VENTA": 48,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 50,
    "ESTADO": 1
  },
  {
@@ -424,7 +534,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 50,
-   "COLOR": "Polar",
+   "COLOR": "Blanco",
    "PRECIO VENTA": 40,
    "ESTADO": 1
  },
@@ -435,7 +545,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Violet Blossom",
+   "COLOR": "Rosado",
    "PRECIO VENTA": 56,
    "ESTADO": 0
  },
@@ -446,7 +556,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Goldenrod Fade",
+   "COLOR": "Anaranjado",
    "PRECIO VENTA": 44,
    "ESTADO": 1
  },
@@ -457,7 +567,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 40,
-   "COLOR": "Exclusive Sienna",
+   "COLOR": "Rosado",
    "PRECIO VENTA": 40,
    "ESTADO": 1
  },
@@ -468,8 +578,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Rose Quartz",
-   "PRECIO VENTA": 44,
+   "COLOR": "Rosado",
+   "PRECIO VENTA": 38,
    "ESTADO": 1
  },
  {
@@ -479,7 +589,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Black",
+   "COLOR": "Negro",
    "PRECIO VENTA": 48,
    "ESTADO": 0
  },
@@ -490,7 +600,7 @@
    "TIPO": "Quencher",
    "USO": "Agua",
    "TAMANO": 20,
-   "COLOR": "Frost",
+   "COLOR": "Blanco",
    "PRECIO VENTA": 26,
    "ESTADO": 1
  },
@@ -501,7 +611,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 16,
-   "COLOR": "Ash",
+   "COLOR": "Gris",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -512,9 +622,9 @@
    "TIPO": "Travel Mug",
    "USO": "Cafe",
    "TAMANO": 16,
-   "COLOR": "Black",
-   "PRECIO VENTA": 32,
-   "ESTADO": 1
+   "COLOR": "Negro",
+   "PRECIO VENTA": 38,
+   "ESTADO": 0
  },
  {
    "ID": 26,
@@ -523,7 +633,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Lilac",
+   "COLOR": "Lila",
    "PRECIO VENTA": 42,
    "ESTADO": 0
  },
@@ -534,9 +644,9 @@
    "TIPO": "Classic Easy Fill",
    "USO": "Licor",
    "TAMANO": 8,
-   "COLOR": "Azure",
-   "PRECIO VENTA": 24,
-   "ESTADO": 1
+   "COLOR": "Azul",
+   "PRECIO VENTA": 30,
+   "ESTADO": 0
  },
  {
    "ID": 24,
@@ -545,7 +655,7 @@
    "TIPO": "Classic Easy Fill",
    "USO": "Licor",
    "TAMANO": 8,
-   "COLOR": "Wisteria Shine",
+   "COLOR": "Morado",
    "PRECIO VENTA": 34,
    "ESTADO": 0
  },
@@ -556,7 +666,7 @@
    "TIPO": "Classic Easy Fill",
    "USO": "Licor",
    "TAMANO": 8,
-   "COLOR": "Dried Pine",
+   "COLOR": "Verde",
    "PRECIO VENTA": 34,
    "ESTADO": 0
  },
@@ -567,7 +677,7 @@
    "TIPO": " Beer Stein",
    "USO": "Cerveza",
    "TAMANO": 24,
-   "COLOR": "Black",
+   "COLOR": "Negro",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -578,7 +688,7 @@
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Pomelo",
+   "COLOR": "Amarillo",
    "PRECIO VENTA": 32,
    "ESTADO": 0
  },
@@ -589,7 +699,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 20,
-   "COLOR": "Ash",
+   "COLOR": "Gris",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -600,7 +710,7 @@
    "TIPO": "Adventure-To-Go",
    "USO": "Agua/Cafe",
    "TAMANO": 44.8,
-   "COLOR": "Chili Red",
+   "COLOR": "Rojo",
    "PRECIO VENTA": 46,
    "ESTADO": 0
  },
@@ -611,7 +721,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 16,
-   "COLOR": "Pomelo",
+   "COLOR": "Amarillo",
    "PRECIO VENTA": 32,
    "ESTADO": 0
  },
@@ -622,7 +732,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 16,
-   "COLOR": "Black",
+   "COLOR": "Negro",
    "PRECIO VENTA": 32,
    "ESTADO": 0
  },
@@ -633,7 +743,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Pomelo",
+   "COLOR": "Amarillo",
    "PRECIO VENTA": 42,
    "ESTADO": 0
  },
@@ -644,7 +754,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 16,
-   "COLOR": "Polar",
+   "COLOR": "Blanco",
    "PRECIO VENTA": 32,
    "ESTADO": 0
  },
@@ -655,7 +765,7 @@
    "TIPO": "All Day",
    "USO": "Agua",
    "TAMANO": 20,
-   "COLOR": "Pomelo",
+   "COLOR": "Amarillo",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -666,7 +776,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 16,
-   "COLOR": "Alpine",
+   "COLOR": "Verde",
    "PRECIO VENTA": 36,
    "ESTADO": 0
  },
@@ -677,8 +787,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Pomelo",
-   "PRECIO VENTA": 42,
+   "COLOR": "Amarillo",
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -688,7 +798,7 @@
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
    "TAMANO": 20,
-   "COLOR": "Seafoam",
+   "COLOR": "Celeste",
    "PRECIO VENTA": 30,
    "ESTADO": 1
  },
@@ -699,7 +809,7 @@
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
    "TAMANO": 20,
-   "COLOR": "Toast",
+   "COLOR": "Crema",
    "PRECIO VENTA": 30,
    "ESTADO": 1
  },
@@ -710,7 +820,7 @@
    "TIPO": "Adventure-To-Go",
    "USO": "Agua/Cafe",
    "TAMANO": 44.8,
-   "COLOR": "Toast",
+   "COLOR": "Crema",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -721,8 +831,8 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 30,
-   "COLOR": "Pomelo",
-   "PRECIO VENTA": 46,
+   "COLOR": "Amarillo",
+   "PRECIO VENTA": 42,
    "ESTADO": 0
  },
  {
@@ -732,7 +842,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Meadow",
+   "COLOR": "Verde",
    "PRECIO VENTA": 46,
    "ESTADO": 0
  },
@@ -743,7 +853,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Azure",
+   "COLOR": "Azul",
    "PRECIO VENTA": 46,
    "ESTADO": 0
  },
@@ -754,7 +864,7 @@
    "TIPO": "AeroLight",
    "USO": "Agua/Cafe",
    "TAMANO": 20,
-   "COLOR": "Twilight",
+   "COLOR": "Azul",
    "PRECIO VENTA": 30,
    "ESTADO": 1
  },
@@ -765,7 +875,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Lilac",
+   "COLOR": "Lila",
    "PRECIO VENTA": 46,
    "ESTADO": 0
  },
@@ -776,7 +886,7 @@
    "TIPO": "IceFlow",
    "USO": "Agua",
    "TAMANO": 16,
-   "COLOR": "Azure",
+   "COLOR": "Azul",
    "PRECIO VENTA": 28,
    "ESTADO": 1
  },
@@ -787,7 +897,7 @@
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
    "TAMANO": 36,
-   "COLOR": "Azure",
+   "COLOR": "Azul",
    "PRECIO VENTA": 38,
    "ESTADO": 0
  },
@@ -798,7 +908,7 @@
    "TIPO": "Quick Flip GO",
    "USO": "Agua",
    "TAMANO": 24,
-   "COLOR": "Azure",
+   "COLOR": "Azul",
    "PRECIO VENTA": 32,
    "ESTADO": 1
  }
