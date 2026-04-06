@@ -140,7 +140,7 @@ function renderProductoDetalle(producto) {
                                     <div class="row mt-3">
                                         <div class="col-12 text-end">
                                             <button id="btnConfirmar" class="btn btn-primary btn-space-catalog">
-                                                <i class="bi bi-check-circle me-2"></i>Enviar Solicitud
+                                                <i class="bi bi-check-circle me-2"></i>Solicitar x WhatsApp
                                             </button>
                                         </div>
                                     </div>                                
