@@ -546,18 +546,18 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azul",
-   "PRECIO VENTA": 44,
+   "PRECIO VENTA": 42,
    "ESTADO": 1
  },
  {
    "ID": 78,
-   "ASIN": "B0DR9N2R9M",
-   "DESCRIPCION": "Quencher ProTour",
-   "TIPO": "Quencher",
-   "USO": "Agua",
-   "TAMANO": 64,
-   "COLOR": "Rojo",
-   "PRECIO VENTA": 38,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 4,
    "ESTADO": 0
  },
  {
@@ -766,7 +766,7 @@
    "USO": "Agua",
    "TAMANO": 24,
    "COLOR": "Blanco",
-   "PRECIO VENTA": 36,
+   "PRECIO VENTA": 38,
    "ESTADO": 0
  },
  {
@@ -826,13 +826,13 @@
  },
  {
    "ID": 53,
-   "ASIN": "B0CWPVX2BZ",
-   "DESCRIPCION": "Lunch Box",
-   "TIPO": "Lunch Box",
-   "USO": "Cafe",
-   "TAMANO": 320,
-   "COLOR": "Gris",
-   "PRECIO VENTA": 58,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 4,
    "ESTADO": 0
  },
  {
@@ -843,7 +843,7 @@
    "USO": "Agua",
    "TAMANO": 50,
    "COLOR": "Lila",
-   "PRECIO VENTA": 52,
+   "PRECIO VENTA": 54,
    "ESTADO": 1
  },
  {
@@ -854,7 +854,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lila",
-   "PRECIO VENTA": 42,
+   "PRECIO VENTA": 40,
    "ESTADO": 1
  },
  {
@@ -865,19 +865,19 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Lila",
-   "PRECIO VENTA": 32,
+   "PRECIO VENTA": 30,
    "ESTADO": 0
  },
  {
    "ID": 49,
-   "ASIN": "B0C2GDLRRJ",
-   "DESCRIPCION": "Food Jar",
-   "TIPO": "Food Jar",
-   "USO": "Cafe",
-   "TAMANO": 24,
-   "COLOR": "Gris",
-   "PRECIO VENTA": 36,
-   "ESTADO": 1
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 4,
+   "ESTADO": 0
  },
  {
    "ID": 48,
@@ -931,8 +931,8 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azul",
-   "PRECIO VENTA": 32,
-   "ESTADO": 1
+   "PRECIO VENTA": 56,
+   "ESTADO": 0
  },
  {
    "ID": 43,
@@ -964,7 +964,7 @@
    "USO": "Agua",
    "TAMANO": 40,
    "COLOR": "Gris",
-   "PRECIO VENTA": 48,
+   "PRECIO VENTA": 52,
    "ESTADO": 0
  },
  {
@@ -975,8 +975,8 @@
    "USO": "Agua",
    "TAMANO": 30,
    "COLOR": "Rosado",
-   "PRECIO VENTA": 38,
-   "ESTADO": 1
+   "PRECIO VENTA": 48,
+   "ESTADO": 0
  },
  {
    "ID": 39,
@@ -1008,7 +1008,7 @@
    "USO": "Agua",
    "TAMANO": 34,
    "COLOR": "Verde",
-   "PRECIO VENTA": 48,
+   "PRECIO VENTA": 34,
    "ESTADO": 0
  },
  {
@@ -1118,7 +1118,7 @@
    "USO": "Cafe",
    "TAMANO": 16,
    "COLOR": "Negro",
-   "PRECIO VENTA": 40,
+   "PRECIO VENTA": 46,
    "ESTADO": 0
  },
  {
@@ -1134,35 +1134,35 @@
  },
  {
    "ID": 25,
-   "ASIN": "B0CV63QL6K",
-   "DESCRIPCION": "Classic Easy Fill",
-   "TIPO": "Classic Easy Fill",
-   "USO": "Licor",
-   "TAMANO": 8,
-   "COLOR": "Azul",
-   "PRECIO VENTA": 34,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 4,
    "ESTADO": 0
  },
  {
    "ID": 24,
-   "ASIN": "B0DTNFQDDB",
-   "DESCRIPCION": "Classic Easy Fill",
-   "TIPO": "Classic Easy Fill",
-   "USO": "Licor",
-   "TAMANO": 8,
-   "COLOR": "Morado",
-   "PRECIO VENTA": 34,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 4,
    "ESTADO": 0
  },
  {
    "ID": 23,
-   "ASIN": "B0DTN3FJ1C",
-   "DESCRIPCION": "Classic Easy Fill",
-   "TIPO": "Classic Easy Fill",
-   "USO": "Licor",
-   "TAMANO": 8,
-   "COLOR": "Verde",
-   "PRECIO VENTA": 34,
+   "ASIN": "",
+   "DESCRIPCION": "",
+   "TIPO": "",
+   "USO": "",
+   "TAMANO": null,
+   "COLOR": "",
+   "PRECIO VENTA": 4,
    "ESTADO": 0
  },
  {
@@ -1393,7 +1393,7 @@
    "USO": "Agua",
    "TAMANO": 36,
    "COLOR": "Azul",
-   "PRECIO VENTA": 38,
+   "PRECIO VENTA": 34,
    "ESTADO": 0
  },
  {
